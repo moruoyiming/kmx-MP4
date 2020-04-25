@@ -1,3 +1,4 @@
+原文地址: https://gitee.com/aprl/kmx-MP4 备份到github方便以后使用。
 # kmx_to_mp4
 
 将优酷缓存的私有kmx文件转换成mp4文件。
